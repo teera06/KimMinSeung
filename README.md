@@ -2,10 +2,11 @@
   <a href="링크" target="_blank">
     <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">
   </a>
+  
 <div>
-<h3>Stacks</h3>
-<img src="https://img.shields.io/badge/C++-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/Unreal Engine 5-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<h3>Skill</h3>
+<img src="https://img.shields.io/badge/C++#00599C?style=for-the-badge&logo=html5&logoColor=Blue">
+<img src="https://img.shields.io/badge/Unreal Engine5#0E1128?style=for-the-badge&logo=css3&logoColor=Block">
 </div>
 
 <div>
