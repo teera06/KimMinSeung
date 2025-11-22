@@ -1,4 +1,7 @@
 # KimMinSeung
+  <a href="링크" target="_blank">
+    <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">
+  </a>
 <div>
 <h3>Stacks</h3>
 <img src="https://img.shields.io/badge/C++-E34F26?style=for-the-badge&logo=html5&logoColor=white">
