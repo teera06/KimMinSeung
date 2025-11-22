@@ -5,7 +5,7 @@
   
 <div>
 <h3>Skill</h3>
-<img src="https://img.shields.io/badge/C++-#00599C?style=for-the-badge&logo=html5&logoColor=Blue">
+<img src="https://img.shields.io/badge/C++-#00599C?style=for-the-badge&logo=C++&logoColor=blue">
 <img src="https://img.shields.io/badge/Unreal Engine5-#0E1128?style=for-the-badge&logo=css3&logoColor=Block">
 </div>
 
